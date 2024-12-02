@@ -1,0 +1,8 @@
+Library
+    structure AoCCommon
+    signature AOC_COMMON
+is
+    common.sig
+    common.sml
+
+    $/basis.cm

@@ -1,0 +1,11 @@
+Library
+    structure Day1
+    signature AOC_DAY
+is
+    aoc2024.sig
+    day1.sml
+
+    $/basis.cm
+    $/smlnj-lib.cm
+    ./Operators/operators.cm
+    ./Common/common.cm
