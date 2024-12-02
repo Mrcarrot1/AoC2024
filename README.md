@@ -3,7 +3,7 @@ This is a (probably bad) implementation of Advent of Code 2024 in Standard ML of
 
 ## Running
 I'm not sure why you would want to run this, but here's how:
-* Install SML/NJ. Instructions should be available at [smlnj.org].
+* Install SML/NJ. Instructions should be available at [smlnj.org](https://smlnj.org).
 * Navigate to the root of this Git repository.
 * Open an SML/NJ interactive session(usually with the `smlnj` command).
 * Run `CM.make "AoC2024.cm";`.
